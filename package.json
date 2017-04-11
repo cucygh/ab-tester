@@ -1,6 +1,6 @@
 {
   "name": "ab-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create A/B Test instance without handle,you can get the key of A or B then process with the result simply",
   "main": "dist/ab-test.min.js",
   "scripts": {
